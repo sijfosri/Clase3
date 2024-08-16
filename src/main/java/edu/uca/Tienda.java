@@ -11,6 +11,7 @@ public class Tienda {
     }
 
     public void agregarProducto(Producto producto) {
+        String asdasd;
     }
 
     public void mostrarInventario() {
