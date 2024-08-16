@@ -5,7 +5,6 @@ import java.util.List;
 
 public class Tienda {
     private List<Producto> inventario = new ArrayList<>();
-    private String aaa;
 
     public int getSize(){
         return inventario.size();
