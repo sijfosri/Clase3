@@ -18,6 +18,7 @@ public class Tienda {
         System.out.println("Inventario: ");
         for(Producto producto: inventario) {
             System.out.println(producto);
+
         }
 
     }
